@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Akash Varma
 
-I'm a third-year B.Tech student at **MLR Institute of Technology**, with a strong foundation in AI, programming, and web development. I'm passionate about building intelligent systems and web applications that solve real-world problems.
+I'm a final year B.Tech student at **MLR Institute of Technology**, with a strong foundation in AI, programming, and web development. I'm passionate about building intelligent systems and web applications that solve real-world problems.
 
 ---
 
@@ -42,7 +42,7 @@ As a tech enthusiast, I love working on innovative projects and continuously exp
 
 - **Python Essentials 1** – Cisco
 - **Python Essentials 2** – Cisco
-- **Ethical Hacking** – [Specify Platform if applicable]
+- **Ethical Hacking** 
 - **Python for Beginners** 
 
 ## 🎯 Aspirations
